@@ -18,7 +18,7 @@ class ScreenRecorder:
 
         # Create the GUI
         self.root = tk.Tk()
-        self.root.title("Screen Recorder")
+        self.root.title("NanoRecorder")
 
         # Set the size and position of the window
         self.root.geometry("400x150")
